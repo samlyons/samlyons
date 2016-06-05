@@ -1,0 +1,54 @@
+body.login {
+/* background-image: url('/wp-content/themes/portfolio/background/slides/4.jpg') !important; */
+background-repeat: repeat;
+background-position: top center !important;
+line-height: 20px;
+font-family: 'Open Sans', sans-serif !important;
+font-size: 13px;
+font-weight: 400;
+color: #999;
+padding: 0px 0 0 0 !important;
+background-size:100% 100%;
+
+}
+.login h1 a {
+width: 320px !important;
+background-position: 54% 75% !important;
+background-size: 75% !important;
+}
+
+#login {
+width: 320px;
+padding: 150px 0 0;
+margin: auto;
+}
+
+.login form {
+margin-left: 8px;
+padding: 29px 37px 50px 33px !Important;
+font-weight: normal;
+background: #EBEBEB;
+border: 1px solid #EBEBEB;
+-moz-box-shadow: rgba(200,200,200,0.7) 0 4px 10px -1px;
+-webkit-box-shadow: rgba(0, 0, 0, 0.7) 0 4px 10px -1px;
+box-shadow: rgba(224, 223, 223, 0.7) 0 4px 10px -1px;
+border-radius: 0;
+background-position-x: 60px;
+background-position-y: 20px;
+}
+input#wp-submit {
+color: #000 !important;
+}
+
+input.button-primary, button.button-primary, a.button-primary {
+border-color: #1D1D1D !important;
+}
+
+.login label {
+color: #000 !important;
+}
+.login #nav, .login #backtoblog {
+display: none;
+}
+/* non-yellow autocomplete */
+body.login div#login form#loginform input { background-color: #FFF !important;}

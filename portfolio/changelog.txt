@@ -1,0 +1,51 @@
+version 1.3 ( updated 9-5-2012 )
+- Updated shortcodes
+	* epanel/shortcodes folder
+	* functions.php
+	* page-login.php
+	* epanel/custom_functions.php
+	* epanel/options_flexible.php
+	* js/custom.js
+- Bumped version number
+	* style.css
+
+version 1.2 ( updated 8-12-2012 )
+- Removed 'Display Content Areas' option in ePanel
+	* epanel/options_flexible.php
+- Fixed single project video resizing issue
+- Fixed vimeo video issue
+	* js/custom.js
+- Fixed Control panel issues:
+	* functions.php
+	* js/et_control_panel.js
+- Fixed content display in page templates
+	* page-contact.php
+	* page-blog.php
+	* page-gallery.php
+	* page-login.php
+	* page-search.php
+	* page-sitemap.php
+- Fixed the documentation link in ePanel
+	* includes/functions/installation.php
+- Fixed recent work section issues on homepage
+	* home.php
+- Fixed videos in lightbox issue:
+	* js/jquery.fitvids.js
+- Improved responsive images display
+- Fixed images with caption:
+	* style.css
+- Fixed comments issue:
+	* js/custom.js
+- Fixed contact form labels localization
+	* page-contact.php
+	* epanel/page_templates/page_templates.css
+	* epanel/page_templates/js/et-ptemplates-frontend.js
+	* updated lang folder
+- Updated ePanel core files:
+	* epanel/core_functions.php
+	* epanel/custom_functions.php	
+
+version 1.1 ( updated 6-14-2012 )
+- Fixed WP 3.4 compatibility issues
+        * epanel/js/custom_uploader.js
+        * epanel/custom_functions.php
